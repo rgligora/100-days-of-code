@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 12, 2022
+### Day 1: February 12, 2022
 
 **Today's Progress**: Postavio GitHub, Java Math funkcije
 
@@ -10,7 +10,7 @@
 
 
 
-### Day 1: February 13, 2022
+### Day 2: February 13, 2022
 
 **Today's Progress**: Java String i String manipulation
 
