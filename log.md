@@ -18,5 +18,13 @@
 
 **Link to work:** Eclipse test1 -> Strings.java
 
+### Day 3: February 14, 2022
+
+**Today's Progress**: Java Conditional Statements & 
+
+**Thoughts:** Funkcije: trim, lenth, toUpperCase, toLowerCase, substring i split. 
+
+**Link to work:** Eclipse test1 -> Strings.java
+
 
 
