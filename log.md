@@ -20,11 +20,11 @@
 
 ### Day 3: February 14, 2022
 
-**Today's Progress**: Java Conditional Statements & 
+**Today's Progress**: Java Conditional Statements & Loops
 
-**Thoughts:** Funkcije: trim, lenth, toUpperCase, toLowerCase, substring i split. 
+**Thoughts:** If-Else, If-Elseif-Else, Switch-case. Loops: while, do-while, for, upotreba String.valueOf(konverzija int to String)  
 
-**Link to work:** Eclipse test1 -> Strings.java
+**Link to work:** Eclipse test1 -> ConditionalStatements.java & Loops.java
 
 
 
