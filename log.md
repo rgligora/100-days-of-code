@@ -32,11 +32,11 @@
 
 ### Day 6: February 17, 2022
 
-**Today's Progress**: Java Conditional Statements & Loops
+**Today's Progress**: Java Methods
 
-**Thoughts:** If-Else, If-Elseif-Else, Switch-case. Loops: while, do-while, for, upotreba String.valueOf(konverzija int to String)  
+**Thoughts:** Passing varibales, passsing objects, return, visibility, methodType.
 
-**Link to work:** Eclipse test1 -> ConditionalStatements.java & Loops.java
+**Link to work:** Educative 4 tests, GPA letter to decimal, toUpperCase() for even number of sting litterals, sum of digits of a number.
 
 
 
