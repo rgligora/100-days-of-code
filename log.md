@@ -26,5 +26,17 @@
 
 **Link to work:** Eclipse test1 -> ConditionalStatements.java & Loops.java
 
+### Day 4: February 15, 2022
+
+### Day 5: February 16, 2022
+
+### Day 6: February 17, 2022
+
+**Today's Progress**: Java Conditional Statements & Loops
+
+**Thoughts:** If-Else, If-Elseif-Else, Switch-case. Loops: while, do-while, for, upotreba String.valueOf(konverzija int to String)  
+
+**Link to work:** Eclipse test1 -> ConditionalStatements.java & Loops.java
+
 
 
