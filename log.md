@@ -26,11 +26,11 @@
 
 **Link to work:** Eclipse test1 -> ConditionalStatements.java & Loops.java
 
-### Day 4: February 15, 2022
+### Day 4: February 15, 2022 /
 
-### Day 5: February 16, 2022
+### Day 5: February 16, 2022 / 
 
-### Day 6: February 17, 2022
+### Day 6: February 17, 2022 /
 
 **Today's Progress**: Java Methods
 
@@ -38,5 +38,8 @@
 
 **Link to work:** Educative 4 tests, GPA letter to decimal, toUpperCase() for even number of sting litterals, sum of digits of a number.
 
+### Day 7: February 18, 2022 /
+
+### Day 8: February 19, 2022 /
 
 
